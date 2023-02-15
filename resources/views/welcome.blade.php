@@ -409,7 +409,7 @@
         class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
         <div class="ml-4 text-lg leading-7 font-semibold">
             <h1 class="text-gray-900 dark:text-white">Iemaduddin</h1>
-            <h3 class="text-gray-900 dark:text-white">TI-2F</h3>
+            <h24 class="text-gray-900 dark:text-white">TI-2F</h24>
         </div>
     </div>
      
